@@ -1,3 +1,4 @@
+#Final Version for Shipd application
 import math
 
 def calculate_heat_index(temp_c, humidity):
